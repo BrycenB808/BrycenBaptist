@@ -1,2 +1,0 @@
-# BrycenBaptist
-Boot camp
