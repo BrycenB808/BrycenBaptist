@@ -77,7 +77,23 @@
 
 //alert(newresult);
 
-var test = "thIs Is A buNcH of RanDOm WoRds";
-var result = test.toUpperCase();
 
-alert(result);
+
+//var examples = ['APPLE', 'Apple Cider', '  applesauce', 'apple pie', 'green apples'];
+
+//var test1 = examples.map(function(data){
+   // return data.trim();
+//})
+
+//test1 = test1.map(function(data){
+  //  return data.toLowerCase();
+//})
+
+//test1 = test1.filter(function(data){
+  //  return data.substring(0,5) === 'apple';
+//})
+
+//test1 = test1.sort();
+
+//alert(test1);
+document.body.style.color = 'green';
